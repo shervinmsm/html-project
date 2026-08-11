@@ -627,6 +627,6 @@ header {
 }
 
 .company {
-    color: var(--clr-white);
+    color: var(--clr-primary);
     font-size: 1.3rem;
 }
