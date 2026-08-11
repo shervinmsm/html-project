@@ -626,7 +626,3 @@ header {
     direction: rtl;
 }
 
-.company {
-    color: var(--clr-primary);
-    font-size: 1.3rem;
-}
