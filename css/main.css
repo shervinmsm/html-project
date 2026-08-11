@@ -477,3 +477,34 @@ header {
     }
   
 }
+
+/* FOOTER */
+
+.footer {
+    background: #222;
+    text-align: center;
+    color: var(--clr-white);
+}
+
+.social-icon {
+    color: var(--clr-white);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+    margin-right: 1rem;
+    transition: var(--transition);
+}
+
+.social-icon:hover {
+    color: var(--clr-primary);
+}
+
+.footer-text {
+    font-size: 1.1rem;
+    direction: rtl;
+}
+
+.company {
+    color: var(--clr-white);
+    font-size: 1.3rem;
+}
